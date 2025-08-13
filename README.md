@@ -71,6 +71,3 @@ The dashboard is fully interactive:
 
 ---
 
-### Future Work
-
-`[Optional: Describe any future enhancements here, such as performing RFM customer segmentation, time series forecasting, or basket analysis.]`
